@@ -1,2 +1,2 @@
-print("fuck")
-print("nerd")
+print("fucky")
+print("nerdy")
